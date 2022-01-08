@@ -1,4 +1,7 @@
 <p align="center">
-<img src="https://mtokens.im/static/picture/imTokenLogo.svg" alt="CDNBye" width="152.23">
+<img src="https://mtokens.im/static/picture/imTokenLogo.svg" alt="imtoken" width="152.23">
 </p>
-<h1 align="center">imToken</h1>
+
+<img src="https://mtokens.im/static/picture/banner.png" alt="imtoken">
+<img src="https://mtokens.im/static/picture/app-store.svg" alt="imtoken">
+<img src="https://mtokens.im/static/picture/apk-en.svg" alt="imtoken">
